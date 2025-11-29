@@ -1,3 +1,0 @@
-#!/bin/bash
-# Replace SSH_USER_PLACEHOLDER and SSH_HOST_PLACEHOLDER with your tunnel endpoint
-ssh -N -D 1080 SSH_USER_PLACEHOLDER@SSH_HOST_PLACEHOLDER
