@@ -47,6 +47,7 @@ make start-tunnel
 │   ├── architecture/
 │   │   └── design/
 │   │       └── adr-001-naming-and-scope.md
+│   │       └── adr-002-failover-strategy.md
 │   ├── guidelines/
 │   │   └── decisions/
 │   └── technical/
